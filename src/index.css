@@ -42,3 +42,36 @@ code {
   width: 30px;
   margin-right: 10px;
 }
+
+.header--subtitle-tag {
+  opacity: .5;
+}
+
+/* Form */
+.meme--form {
+  max-width: 450px;
+  margin: 2rem auto;
+}
+
+.meme--form-input {
+  width: 48%;
+  padding: .5rem;
+  border: 1px solid #D5D4D8;
+  border-radius: 5px;
+  color: #0D0D0D;
+}
+
+.meme--form-input:first-child {
+  margin-right: 18px;
+}
+
+.meme--form-btn {
+  width: 100%;
+  background: linear-gradient(to right, #672280, #A626D3);
+  color: white;
+  font-weight: bold;
+  padding: .8rem 0;
+  border: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
