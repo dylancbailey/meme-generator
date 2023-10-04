@@ -75,3 +75,7 @@ code {
   border-radius: 5px;
   margin-top: 1rem;
 }
+
+.meme--img {
+  max-width: 100%;
+}
