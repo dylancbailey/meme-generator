@@ -48,6 +48,10 @@ code {
 }
 
 /* Form */
+main {
+  max-width: 450px;
+  margin: auto;
+}
 .meme--form {
   max-width: 450px;
   margin: 2rem auto;
